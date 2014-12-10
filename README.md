@@ -1,4 +1,5 @@
 MachineLearning
 ===============
 
-This is a repository for my testing of kinds of machine learning algorithms
+This is a repository for testing kinds of machine learning algorithms
+I try to use Java to invoke open source machine learning jars
